@@ -9,19 +9,19 @@
 	--corner-text: 'Coolercord :3';
 
 	/* color of status indicators and window controls */
-	--online-indicator: hsl(112, 90%, 69%); /* change to #23a55a for default green */
-	--dnd-indicator: hsl(0, 99%, 67%); /* change to #f13f43 for default red */
-	--idle-indicator: hsl(48, 100%, 66%); /* change to #f0b232 for default yellow */
-	--streaming-indicator: hsl(260, 100%, 64%); /* change to #593695 for default purple */
+	--online-indicator: hsl(112, 100%, 55%); /* change to #23a55a for default green */
+	--dnd-indicator: hsl(0, 100%, 55%); /* change to #f13f43 for default red */
+	--idle-indicator: hsl(41, 100%, 55%); /* change to #f0b232 for default yellow */
+	--streaming-indicator: hsl(260, 100%, 55%); /* change to #593695 for default purple */
 
 	/* accent colors */
-	--accent-1: hsl(44, 70%, 60%); /* links */
-	--accent-2: hsl(49, 70%, 48%); /* general unread/mention elements */
-	--accent-3: hsl(44, 100%, 50%); /* accent buttons */
-	--accent-4: hsl(51, 100%, 50%); /* accent buttons when hovered */
-	--accent-5: hsl(44, 70%, 30%); /* accent buttons when clicked */
-	--mention: hsla(44, 80%, 52%, 0.1); /* mentions & mention messages */
-	--mention-hover: hsla(190, 80%, 52%, 0.05); /* mentions & mention messages when hovered */
+	--accent-1: hsl(41, 100%, 55%); /* links */
+	--accent-2: hsl(41, 100%, 55%); /* general unread/mention elements */
+	--accent-3: hsl(41, 100%, 55%); /* accent buttons */
+	--accent-4: hsl(41, 100%, 55%); /* accent buttons when hovered */
+	--accent-5: hsl(41, 100%, 55%); /* accent buttons when clicked */
+	--mention: hsla(41, 100%, 55%, 0.1); /* mentions & mention messages */
+	--mention-hover: hsla(41, 100%, 55%, 0.05); /* mentions & mention messages when hovered */
 
 	/* text colors */
 	--text-0: rgb(255, 255, 255); /* text on colored elements */
@@ -29,7 +29,7 @@
 	--text-2: hsl(220, 21%, 78%); /* headings and important text */
 	--text-3: hsl(220, 15%, 60%); /* normal text */
 	--text-4: hsl(220, 15%, 40%); /* icon buttons and channels */
-	--text-5: hsl(220, 15%, 25%); /* muted channels/chats and timestamps */
+	--text-5: hsl(220, 15%, 32%); /* muted channels/chats and timestamps */
 
 	/* background and dark colors */
 	--bg-1: hsl(218, 15%, 15%); /* dark buttons when clicked */
