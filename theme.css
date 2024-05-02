@@ -107,10 +107,12 @@
 .wrapper__6bf2d.minimum__7f356 /* private call */,
 .container_ec5ce2, .container__33507 /* emoji/sticker and gif picker searchbars */,
 #app-mount .uploadModal__6eb75 /* upload modal */,
+answerInner_b97752 /* poll answer */,
 .uploadModal__6eb75 .footer_f06dbb /* upload modal footer */ {
 	background: var(--bg-4);
 }
 .mainCard__0ec2c /* forum post */,
+.container__62863 /* polls */,
 .navRow_bb8efc[data-theme=dark] /* add new account bottom */ {
 	background: var(--bg-3);
 }
