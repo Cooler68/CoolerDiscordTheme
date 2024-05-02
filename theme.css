@@ -107,12 +107,16 @@
 .wrapper__6bf2d.minimum__7f356 /* private call */,
 .container_ec5ce2, .container__33507 /* emoji/sticker and gif picker searchbars */,
 #app-mount .uploadModal__6eb75 /* upload modal */,
-answerInner_b97752 /* poll answer */,
 .uploadModal__6eb75 .footer_f06dbb /* upload modal footer */ {
 	background: var(--bg-4);
 }
+.answerInner_b97752 {
+    background: var(--bg-4);
+}
+.pollContainer_cfb8c7 {
+    background: var(--bg-3);
+}
 .mainCard__0ec2c /* forum post */,
-.container__62863 /* polls */,
 .navRow_bb8efc[data-theme=dark] /* add new account bottom */ {
 	background: var(--bg-3);
 }
@@ -1096,8 +1100,8 @@ html.theme-light,
 	--text-muted-on-default: red;
 	--text-normal: var(--text-3);
 	--text-positive: var(--green-330);
-	--text-primary: red;
-	--text-secondary: red;
+	--text-primary: var(--text-1);
+	--text-secondary: var(--text-4);
 	--text-warning: var(--yellow-300);
 	--textbox-markdown-syntax: var(--primary-360);
 	--theme-locked-blur-fallback: hsl(var(--primary-700-hsl) / 0.96);
